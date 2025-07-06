@@ -13,7 +13,7 @@ Tweets are categorized into primary sentiment labels — Positive, Negative, and
 🚫 Insult
 
 📌 Key Features:
-📥 scraper.py script for collecting tweets using snscrape
+📥 scraper.py script for collecting tweets using selenium
 
 🌐 Handles both English and Bengali (native & Romanized)
 
@@ -21,7 +21,7 @@ Tweets are categorized into primary sentiment labels — Positive, Negative, and
 
 🏷️ Two-level classification: Sentiment + Subsentiment
 
-📊 Detailed evaluation with accuracy, F1-score, and confusion matrix
+📊 Detailed evaluation, visualization and deployment on Streamlit
 
 This project demonstrates how transformer-based models can be applied to multilingual, real-world social media data, offering both coarse and fine sentiment understanding.
 
